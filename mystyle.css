@@ -1,0 +1,62 @@
+@charset "utf-8";
+
+p {
+    font-size: 16px !important;
+}
+
+h1 {
+    font-family: 'Arial', sans-serif !important; 
+    color:#5D473A !important; 
+    font-size:25px !important;
+}
+
+h2 {
+    font-family: 'Arial', sans-serif !important; 
+    color:#000000 !important; 
+    font-size:20px !important;
+}
+
+h3 {
+    font-family: 'Arial', sans-serif !important; 
+    color:#3E8A2A !important; 
+    font-size:18px !important;
+}
+
+body {
+    background-image:url(https://www.chicagocanvas.com/wp-content/uploads/2019/12/rob-laughter-WW1jsInXgwM-unsplash-scaled.jpg);
+}
+
+#container-fluid {
+    background-color: #A8C256;
+}
+
+.nav-link {
+    color: #ffffff !important;
+    font-family: 'Arial' sans-serif !important;
+    font-size: 18px !important;
+}
+
+.dropdown-item {
+    color: #000000 !important;
+    font-family: 'Arial' sans-serif !important;
+}
+
+.col-md-8 {
+    max-height:390px;
+    overflow:visible !important;
+    display:block !important;
+}
+
+.row {
+    padding: 15px;
+    height: 300px;
+    width: 100%;
+}
+
+footer {
+    background-color: #5D473A;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 20px;
+}
